@@ -1,4 +1,5 @@
-**Welcome to Pitterest!! 🥳 🥳**
+# **Welcome to Pitterest!! 🥳 🥳**
+<img width="1442" alt="Screenshot 2024-05-15 at 4 14 25 PM" src="https://github.com/herman256561/Pitterest/assets/140695161/98e1f454-0905-42f6-8195-f8db15e67ecd">
 
 ## Introduction
 ---
@@ -11,6 +12,9 @@ Our team consists of four master’s students in Information Science at the Univ
 
 ### Project Demo
 [Click Here To Watch Project Demo](https://youtu.be/s7crGKuJhOQ)
+
+### Access Project Source Code
+[Click Here To View Source Code](https://glitch.com/edit/#!/pitterest-0425?path=README.md%3A183%3A57)
 
 ---
 ## Objective
